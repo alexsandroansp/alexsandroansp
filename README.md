@@ -14,10 +14,10 @@ Olá! Me chamo **Alexsandro**, sou estudante de análise e desenvolvimento de si
 
 Atualmente estou aprendendo e praticando:
 
-- 🔹 HTML, CSS, JavaScript
-- 🔹 React, Node.js, Git
-- 🔹 APIs REST, Deploy e ferramentas modernas
-
+- 🔹 HTML, CSS, JavaScript.
+- 🔹 React, Node.js, Git, GitHub.
+- 🔹 APIs REST, Deploy entre outras ferramentas modernas.
+- 🔹 Banco de dados relacionais e não relacionais.
 ---
 
 ## 🧭 Minha motivação é real
