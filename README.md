@@ -10,7 +10,7 @@
 
 ## ✨ Sobre mim
 
-Olá! Me chamo **Alexsandro**, sou estudante de desenvolvimento web no **Dev Club Tech** e **Rocketseat**.
+Olá! Me chamo **Alexsandro**, sou estudante de análise e desenvolvimento de sistemas no **Dev Club Tech** e **Rocketseat**.
 
 Atualmente estou aprendendo e praticando:
 
@@ -30,10 +30,10 @@ Convivo com ansiedade e depressão, mas todos os dias escolho levantar e program
 
 ## 💥 O que me move
 
-🔎 Foco, disciplina e resiliência  
-🎯 Procuro minha **primeira oportunidade** (estágio, CLT, PJ ou freela)  
-🤝 Colaborativo, proativo e sempre disposto a aprender  
-💻 Crio projetos reais com código limpo e boas práticas
+🔎 Foco, disciplina e resiliência.  
+🎯 Procuro minha **primeira oportunidade** (estágio, CLT, PJ ou freela).  
+🤝 Colaborativo, proativo e sempre disposto a aprender.
+💻 Crio projetos reais com código limpo e boas práticas.
 
 ---
 
