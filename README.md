@@ -40,7 +40,7 @@ Convivo com ansiedade e depressão, mas todos os dias escolho levantar e program
 ## 📫 Vamos conversar?
 
 📱 [Me chame no WhatsApp](https://wa.me/5515996822022)  
-🔗 [Conecte comigo no LinkedIn](https://www.linkedin.com/in/alexsandroaparecido)
+🔗 [Conecte comigo no LinkedIn](https://www.linkedin.com/in/alexsandro-aparecido-de-oliveira)
 
 ---
 
