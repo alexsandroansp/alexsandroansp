@@ -1,53 +1,55 @@
-<h1 align="center">👋 Olá! Eu sou o Alexsandro</h1>
+<!-- Cabeçalho com fundo e destaque -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:1DB954&height=200&section=header&text=Alexsandro%20Oliveira&fontSize=40&fontColor=ffffff" />
+</div>
 
-<p align="center"><em>
-Iniciando minha jornada no mundo da programação com coragem, propósito e esperança.
-</em></p>
-
----
-
-### 📌 Sobre mim
-
-Sou aluno do **Dev Club Tech** e da **Rocketseat**, aprendendo e praticando tecnologias como:
-
-- 🌐 HTML, CSS, JavaScript
-- ⚛️ React, Node.js
-- 🔧 Git, REST APIs
-- ⚙️ Ferramentas modernas de desenvolvimento
+<h3 align="center">🚀 Programando com propósito</h3>
+<p align="center"><em>Transformando dificuldades em força e código.</em></p>
 
 ---
 
-### 💪 Minha motivação
+## ✨ Sobre mim
 
-Não estou aqui apenas por um emprego. Estou aqui por um propósito.
+Olá! Me chamo **Alexsandro**, sou estudante de desenvolvimento web no **Dev Club Tech** e **Rocketseat**.
 
-> Enfrento desafios emocionais e financeiros profundos. Convivo com ansiedade e depressão. Cuido dos meus pais, que são doentes crônicos, tomando mais de 10 remédios por dia.
+Atualmente estou aprendendo e praticando:
 
-Mesmo assim, acordo todos os dias com sede de aprender, com fé no futuro e com a certeza de que a tecnologia pode transformar minha vida — e a de quem eu amo.
-
----
-
-### 🌱 O que me move
-
-- 📚 Aprendo rápido e com foco total
-- 🤝 Gosto de colaborar, ouvir e crescer com os outros
-- 🧠 Tenho sede de conhecimento e visão de futuro
-- 💻 Estou em busca da minha **primeira oportunidade**: estágio, CLT, PJ ou freelancer
+- 🔹 HTML, CSS, JavaScript
+- 🔹 React, Node.js, Git
+- 🔹 APIs REST, Deploy e ferramentas modernas
 
 ---
 
-### 📬 Contato direto
+## 🧭 Minha motivação é real
 
-- 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/5515996822022)
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexsandroaparecido)
+> “Estou lutando não só por mim, mas por meus pais, que enfrentam problemas graves de saúde.”
 
----
-
-### 💡 Finalizo com uma promessa:
-
-> Se me derem uma chance, eu vou agarrar com tudo que tenho.  
-> Não sou apenas um programador em formação — sou alguém que está reconstruindo a vida com cada linha de código.
+Convivo com ansiedade e depressão, mas todos os dias escolho levantar e programar. Porque sei que a tecnologia é minha porta de saída para uma vida melhor.
 
 ---
 
-_Obrigado por visitar meu perfil. Vamos conversar?_
+## 💥 O que me move
+
+🔎 Foco, disciplina e resiliência  
+🎯 Procuro minha **primeira oportunidade** (estágio, CLT, PJ ou freela)  
+🤝 Colaborativo, proativo e sempre disposto a aprender  
+💻 Crio projetos reais com código limpo e boas práticas
+
+---
+
+## 📫 Vamos conversar?
+
+📱 [Me chame no WhatsApp](https://wa.me/5515996822022)  
+🔗 [Conecte comigo no LinkedIn](https://www.linkedin.com/in/alexsandroaparecido)
+
+---
+
+<div align="center">
+  <strong>⚡ Acredite em mim: com oportunidade, vou além. ⚡</strong>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=150&section=footer"/>
+</div>
