@@ -28,15 +28,12 @@ Tenho buscado constantemente aprimorar minhas habilidades técnicas e acompanhar
 
 Minha motivação vai além da vontade de trabalhar com tecnologia: quero contribuir para empresas que valorizem inovação e resultados. Sou comprometido, responsável e tenho facilidade em aprender e me adaptar a diferentes ambientes e ferramentas. Gosto de desafios e vejo cada projeto como uma oportunidade de evoluir profissionalmente e gerar impacto positivo.
 
-Ao me dar uma chance, você terá não apenas um programador, mas um profissional dedicado a entregar qualidade, buscar melhorias contínuas e colaborar para o crescimento da empresa. Estou pronto para aplicar meus conhecimentos, aprender com especialistas e ajudar sua equipe a alcançar objetivos de forma estratégica e eficiente.
+
 ---
 
 ## 💥 O que me move
 
-🔎 Foco, disciplina e resiliência.  
-🎯 Procuro minha **primeira oportunidade** 
-🤝 Colaborativo, proativo e sempre disposto a aprender.
-💻 Crio projetos reais com código limpo e boas práticas.
+Ao me dar uma chance, você terá não apenas um programador, mas um profissional dedicado a entregar qualidade, buscar melhorias contínuas e colaborar para o crescimento da empresa. Estou pronto para aplicar meus conhecimentos, aprender com especialistas e ajudar sua equipe a alcançar objetivos de forma estratégica e eficiente.
 
 ---
 
