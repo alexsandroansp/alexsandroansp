@@ -36,6 +36,7 @@ Ao me dar uma chance, você terá não apenas um programador, mas um profissiona
 🔎 Foco, disciplina e resiliência.  
 🎯 Procuro minha **primeira oportunidade** (estágio, CLT, PJ ou freela).  
 🤝 Colaborativo, proativo e sempre disposto a aprender.
+
 💻 Crio projetos reais com código limpo e boas práticas.
 
 ---
