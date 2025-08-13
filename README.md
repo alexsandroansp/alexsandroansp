@@ -10,7 +10,7 @@
 
 ## ✨ Sobre mim
 
-Olá! Me chamo **Alexsandro**, sou estudante de análise e desenvolvimento de sistemas no **Dev Club Tech** e **Rocketseat**.
+Desde cedo, sempre fui fascinado pelo mundo da tecnologia e pelo poder que os computadores têm de transformar ideias em realidade. Essa curiosidade se tornou motivação para estudar e me aprofundar na área de Análise e Desenvolvimento de Sistemas, que é, essencialmente, o núcleo do trabalho de um programador. Entendo que essa função vai muito além de escrever códigos: envolve compreender problemas, projetar soluções, otimizar processos e entregar resultados que realmente façam diferença.
 
 Atualmente estou aprendendo e praticando:
 
@@ -22,10 +22,13 @@ Atualmente estou aprendendo e praticando:
 
 ## 🧭 Minha motivação é real
 
-> “Estou lutando não só por mim, mas por meus pais, que enfrentam problemas graves de saúde.”
+> Acredito que um bom profissional de desenvolvimento não é apenas aquele que domina linguagens de programação, mas sim aquele que entende as necessidades do usuário, analisa cenários e transforma desafios em soluções eficientes. É exatamente essa visão que levo comigo: unir raciocínio lógico, criatividade e atenção aos detalhes para criar sistemas que funcionem de forma intuitiva e segura.
 
-Convivo com ansiedade e depressão, mas todos os dias escolho levantar e programar. Porque sei que a tecnologia é minha porta de saída para uma vida melhor.
+Tenho buscado constantemente aprimorar minhas habilidades técnicas e acompanhar as tendências do mercado. Já estudei e pratiquei conceitos de HTML, CSS, JavaScript, bancos de dados e integrações, além de fundamentos de UI/UX para tornar os sistemas mais amigáveis. Também entendo a importância do trabalho em equipe e da comunicação clara para o sucesso de qualquer projeto.
 
+Minha motivação vai além da vontade de trabalhar com tecnologia: quero contribuir para empresas que valorizem inovação e resultados. Sou comprometido, responsável e tenho facilidade em aprender e me adaptar a diferentes ambientes e ferramentas. Gosto de desafios e vejo cada projeto como uma oportunidade de evoluir profissionalmente e gerar impacto positivo.
+
+Ao me dar uma chance, você terá não apenas um programador, mas um profissional dedicado a entregar qualidade, buscar melhorias contínuas e colaborar para o crescimento da empresa. Estou pronto para aplicar meus conhecimentos, aprender com especialistas e ajudar sua equipe a alcançar objetivos de forma estratégica e eficiente.
 ---
 
 ## 💥 O que me move
